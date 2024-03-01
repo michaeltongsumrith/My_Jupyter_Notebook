@@ -1,2 +1,2 @@
 # My_Jupyter_Notebook
-Sharing my Jupyter notebook 
+Sharing my Jupyter Notebook 
